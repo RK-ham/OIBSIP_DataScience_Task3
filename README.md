@@ -11,11 +11,11 @@ Domain: Data Science
 
 | Task   | Title                  | Colab Notebook | Demo Video                             |
 |--------|------------------------|----------------|-----------------------------------------|
-| Task 2 | Car Price Prediction   | ✅              | [Watch](https://youtu.be/kwjrlFj3rEs)   |
+| Task 3 | Car Price Prediction   | ✅              | [Watch](https://youtu.be/kwjrlFj3rEs)   |
 
 ---
 
-## Task 2: Car Price Prediction
+## Task 3: Car Price Prediction
 
 Developed a machine learning model that predicts the selling price of a car based on features such as fuel type, transmission, year, and more.
 
